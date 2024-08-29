@@ -5,13 +5,24 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/globo terraqueo.jpg");
+  background-image: url("../img/travel.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+  text-align: left;
+}
+
+.texto-ajustado {
+  max-width: 500px;
+  margin-left: 0; 
+  margin-right: 0;
 }
 
 /* Mis trabajos */
+
+#Mis-trabajos{
+  background-color: #faa930;
+}
 
 #Mis-trabajos .image-top {
   height: 250px;
